@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @ShevaneJ
-- 👀 I’m interested in coding
-  
-
+Hey you!
 
 <!---
 ShevaneJ/ShevaneJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
